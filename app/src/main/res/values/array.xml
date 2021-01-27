@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_items">
+        <item>by Model asc</item>
+        <item>by Model desc</item>
+        <item>by Year asc</item>
+        <item>by Year desc</item>
+        <item>by Price asc</item>
+        <item>by Price desc</item>
+        <item>by Color asc</item>
+        <item>by Color desc</item>
+        <item>by Mileage asc</item>
+        <item>by Mileage desc</item>
+    </string-array>
+</resources>

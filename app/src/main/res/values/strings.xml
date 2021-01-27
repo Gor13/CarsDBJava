@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CarsDBJava</string>
+    <string name="model">Model:</string>
+    <string name="year">Year:</string>
+    <string name="price">Price:</string>
+    <string name="color">Color:</string>
+    <string name="mileage">Mileage:</string>
+    <string name="search">Search</string>
+    <string name="sorted_by">Sorted by:</string>
+    <string name="photo_with_car">Photo with car</string>
+</resources>
